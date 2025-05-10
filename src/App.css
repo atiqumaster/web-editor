@@ -1,0 +1,21 @@
+.tfu-web-editor {
+    padding: 24px 48px;
+}
+
+.tfu-shape-tools-btn button {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 12px 18px;
+    color: #fff;
+    border-radius: 7px;
+    background: #8cb6c0;
+}
+
+.editor-canvas-add-btn button {
+    border-radius: 12px;
+    padding: 14px 36px;
+    color: #fff;
+    margin: 70px auto;
+    display: flex;
+    background: #7b74ff;
+}
